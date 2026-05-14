@@ -1,0 +1,28 @@
+{
+  "name": "odin-wds-express-js-in-35-minuten",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebSol11/odin-WDS-express-js-in-35-minuten.git"
+  },
+  "keywords": [],
+  "author": "example_user",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DebSol11/odin-WDS-express-js-in-35-minuten/issues"
+  },
+  "homepage": "https://github.com/DebSol11/odin-WDS-express-js-in-35-minuten#readme",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
